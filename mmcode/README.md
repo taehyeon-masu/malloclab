@@ -1,0 +1,11 @@
+mm.c			ver. 0.0.0
+mm_implicit_firstfit.c	ver. 1.0.0
+mm_implicit_nextfit.c	ver. 1.0.1
+mm_implicit_bestfit.c	ver. 1.0.2
+mm_explicit.c		ver. 2.0.0
+mm_seglist.c		ver. 3.0.0
+mm_seg_place.c		ver. 3.1.0
+mm_noplace.c		ver. 3.1.1
+mm_place.c		ver. 3.1.2
+mm_prev_place.c		ver. 3.1.3
+mm_rb.c			ver. 4.0.0
