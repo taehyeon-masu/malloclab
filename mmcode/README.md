@@ -8,5 +8,8 @@ mm_seg_place.c		ver. 3.1.0
 mm_noplace.c		ver. 3.1.1
 mm_place.c		ver. 3.1.2
 mm_prev_place.c		ver. 3.1.3
-mm_all_prev_place.c ver. 3.1.4
+mm_all_prev_place.c 	ver. 3.1.4
 mm_rb.c			ver. 4.0.0
+mm_3_1_6_0		ver. 3.1.6.0
+mm_3_1_6_1		ver. 3.1.6.1
+mm_3_1_6_2		ver. 3.1.6.2
